@@ -1,0 +1,9 @@
+C:\Users\Sikha.P\source\repos\BLM_Apis\bin\Release\BLM_Apis.dll
+C:\Users\Sikha.P\source\repos\BLM_Apis\bin\Release\BLM_Apis.pdb
+C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Release\BLM_Apis.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Release\BLM_Apis.dll
+C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Release\BLM_Apis.pdb
+C:\Users\Sikha.P\source\repos\BLM_Apis\bin\Release\Newtonsoft.Json.dll
+C:\Users\Sikha.P\source\repos\BLM_Apis\bin\Release\Newtonsoft.Json.xml
+C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Release\BLM_Apis.csproj.CopyComplete
+C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Release\BLM_Apis.csprojAssemblyReference.cache
