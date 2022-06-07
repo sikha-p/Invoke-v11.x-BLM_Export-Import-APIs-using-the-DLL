@@ -1,6 +1,0 @@
-C:\Users\Sikha.P\source\repos\BLM_Apis\bin\Debug\BLM_Apis.dll
-C:\Users\Sikha.P\source\repos\BLM_Apis\bin\Debug\BLM_Apis.pdb
-C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Debug\BLM_Apis.csprojAssemblyReference.cache
-C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Debug\BLM_Apis.csproj.CoreCompileInputs.cache
-C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Debug\BLM_Apis.dll
-C:\Users\Sikha.P\source\repos\BLM_Apis\obj\Debug\BLM_Apis.pdb
